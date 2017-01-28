@@ -1,4 +1,4 @@
-# contao-cssinserttags-bundle
+# CSS Inserttags to include (resized) images in stylesheets
 Insert tags for style sheets
 
 ### Install:
