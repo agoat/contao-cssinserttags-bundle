@@ -9,14 +9,14 @@ Insert tags for style sheets
 For resized image as an asset
 ```
 .class {
-    background: url({{) #fff;
+    background: url({{image::imageUUID?width=100&height=100&mode=crop}}) #fff;
 }
 ```
 
 For an embedded image
 ```
 .class {
-    background: url() #fff;
+    background: url({{embed::imageUUID?width=100&height=100&mode=crop}}) #fff;
 }
 ```
 
