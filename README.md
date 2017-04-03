@@ -1,6 +1,10 @@
 # CSS Insert tags to include (resized) images in stylesheets
 Insert tags for style sheets
 
+
+ **This is currently just a draft - no code so far !!**
+
+
 ## Install:
 
 
